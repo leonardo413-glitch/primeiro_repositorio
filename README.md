@@ -1,5 +1,5 @@
 # PRAZER, EU SOU O LEO...
-# 🚀 Jornada Python:  esse é meu caminho na programação
+# 🚀 Jornada Python:  Esse é meu caminho na programação
 
 
 ![GIF engraçado](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTBkNWZla2xzM2EzdDhhODB3cTN6Z2VxYm96ZjMzaXA0Y2p4NXVpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eCwAEs05phtK/giphy.gif)
