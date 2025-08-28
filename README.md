@@ -1,11 +1,8 @@
-# primeiro_repositorio
-minha primeira pasta
+# PRAZER, EU SOU O LEO...
+# 🚀 Jornada Python:  esse é meu caminho na programação
 
 
-
-# 🚀 Jornada Python: Meu caminho na programação
-
-Olá! 👋 Sou um estudante apaixonado por tecnologia e estou dando meus primeiros passos no mundo da programação com Python. Este repositório é o meu espaço de aprendizado, onde compartilho projetos, exercícios e descobertas enquanto mergulho cada vez mais fundo nessa linguagem incrível.
+![GIF engraçado](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTBkNWZla2xzM2EzdDhhODB3cTN6Z2VxYm96ZjMzaXA0Y2p4NXVpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eCwAEs05phtK/giphy.gif)
 
 ## 🧠 Sobre mim
 
@@ -35,15 +32,14 @@ Olá! 👋 Sou um estudante apaixonado por tecnologia e estou dando meus primeir
 - VS Code
 - Git e GitHub
 
-## 🤝 Contribuições
 
-Se você também está aprendendo ou já tem experiência, sinta-se à vontade para abrir issues, sugerir melhorias ou compartilhar dicas. Toda ajuda é bem-vinda!
 
 ## 📬 Contato
 
-Quer trocar uma ideia ou dar um feedback? Me chama por aqui mesmo no GitHub ou pelas redes sociais (em breve adicionarei os links).
+Quer trocar uma ideia ou dar um feedback? Me chama por aqui mesmo no GitHub ou pelas redes sociais:
 
----
+- INSTAGRAM: leleo_de.le
+
 
 > “A jornada de mil linhas de código começa com o primeiro `print()`.” 😄
 
